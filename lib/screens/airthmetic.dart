@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Arithmetic extends StatefulWidget {
+  const Arithmetic({super.key});
+
   @override
   _ArithmeticState createState() => _ArithmeticState();
 }
